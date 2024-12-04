@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/SNAKE/main.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/SNAKE/snake.h" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/experiment1/string.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/experiment1/zhandui.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/shujujiegou/experiment1/string.c" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shujujiegou_lab1/experiment1/string.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/shujujiegou_lab1/experiment1/zhandui.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/shujujiegou_lab2/src/tree.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/shujujiegou_lab2/src/tree.c" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
