@@ -157,6 +157,7 @@ Status VerDegree(MGraph G) {
 int main() {
     MGraph G;
     //输出并创建无向图
+    // 把v0 v1 v2 v3 看作abcd
     char UDGvex[20]={'A','B','C','D'};
     int UDGarcs[20][3]={0,1,1,0,2,1,0,3,1,1,2,1,2,3,1};
     CreateMGraph(UDG,&G,4,5,UDGvex,&UDGarcs[0][0]);
